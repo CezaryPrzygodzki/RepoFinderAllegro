@@ -16,7 +16,7 @@ Aplikacja:
 - Ukazanie szczegółów danego repozytorium
 
 # Możliwości rozwoju
-Implementacja trybu ciemnego / nocnego
-Możliwość wyszukiwania danego repozytorium
-Możliwość sortowania repozytoriów wg różnych kryteriów
-Rozbudowanie ekranu MoreInfo o więcej informacji np plik README
+- Implementacja trybu ciemnego / nocnego
+- Możliwość wyszukiwania danego repozytorium
+- Możliwość sortowania repozytoriów wg różnych kryteriów
+- Rozbudowanie ekranu MoreInfo o więcej informacji np plik README
