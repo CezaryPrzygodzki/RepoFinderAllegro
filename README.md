@@ -2,7 +2,7 @@
 Aplikacja realizowana w ramach rekrutacji na staż Allegro Spring TECH e-Xperience 2022
 
 # Uruchamianie
-Do uruchomienia apliakcji potrzebny będzie xCode. Projekt nie wymaga żadnych dodatkowych bibliotek niż natywne, więc po pobraniu można od razu uruchomić.
+Do uruchomienia aplikacji potrzebny będzie xCode. Projekt nie wymaga żadnych dodatkowych bibliotek niż natywne, więc po pobraniu można od razu uruchomić.
 
 # Podstawowe informacje
 Aplikacja: 
